@@ -1,2 +1,2 @@
-doc lua usr/share/statuscol-nvim
+doc lua usr/share/neovim-statuscol
 debian/statuscol.lua etc/skel/.config/nvim/plugin
